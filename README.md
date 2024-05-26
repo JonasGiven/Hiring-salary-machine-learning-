@@ -1,3 +1,6 @@
+https://github.com/JonasGiven/Hiring-salary-machine-learning-/assets/169194581/263f72d6-9ea5-4da1-8afa-cbb4a3be6e56
+
+#Determining hiring salary using machine learning
 
 ### 1. Data Preprocessing
 
