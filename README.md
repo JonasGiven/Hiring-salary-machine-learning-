@@ -1,4 +1,5 @@
-https://github.com/JonasGiven/Hiring-salary-machine-learning-/assets/169194581/263f72d6-9ea5-4da1-8afa-cbb4a3be6e56
+https://github.com/JonasGiven/Hiring-salary-machine-learning-/assets/169194581/425e3139-d570-471f-91f8-8ebc021037bb
+
 
 # Determining hiring salary using machine learning
 
